@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:13.413713
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:53
 #+TITLE: 蔗菴範禪師語錄
 #+PROPERTY: CBETA_ID J36nB369
 #+PROPERTY: ID KR6q0506
@@ -13,7 +13,7 @@
  蔗菴範禪師語錄卷十九¶
 侍者智應錄¶
 
-頌古¶
+* 頌古¶
 
 「世尊初生。」¶
 
